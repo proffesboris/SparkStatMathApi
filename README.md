@@ -1,1 +1,1 @@
-# Calculte math features with Spark 1.6
+# Calculate math features with Spark 1.6
